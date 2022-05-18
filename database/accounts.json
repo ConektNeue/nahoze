@@ -1,0 +1,40 @@
+[
+    {
+        "username": "ConektNeue",
+        "password": "lollipop1",
+        "groups": [
+            {
+                "file_group_title": "nationsglory",
+                "status": "admin"
+            },
+            {
+                "file_group_title": "cooking",
+                "status": "admin"
+            }
+        ]
+    },
+    {
+        "username": "Eloan",
+        "password": "chupaPoop5",
+        "groups": [
+            {
+                "file_group_title": "nationsglory",
+                "status": "standard"
+            }
+        ]
+    },
+    {
+        "username": "Tom_W",
+        "password": "poopYtb2",
+        "groups": [
+            {
+                "file_group_title": "nationsglory",
+                "status": "standard"
+            },
+            {
+                "file_group_title": "cooking",
+                "status": "standard"
+            }
+        ]
+    }
+]
